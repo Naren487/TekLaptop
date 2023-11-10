@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Amul Ghee",
+        "category": "Ghee",
+        "price": "550",
+        "image": "https://m.media-amazon.com/images/I/81jSZt5XnKL._SL1500_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Amul Cheese",
+        "category": "Cheese",
+        "price": "350",
+        "image": "https://www.jiomart.com/images/product/600x600/490001401/amul-cheese-block-200-g-carton-product-images-o490001401-p490001401-4-202204261856.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tender Coconut (1 pc)",
+        "category": "Fruits & Vegitables",
+        "price": "45",
+        "image": "https://www.jiomart.com/images/product/original/590003564/tender-coconut-cling-wrapped-1-pc-approx-900-g-1300-g-product-images-o590003564-p590003564-0-202203151146.jpg"
+    }
+]

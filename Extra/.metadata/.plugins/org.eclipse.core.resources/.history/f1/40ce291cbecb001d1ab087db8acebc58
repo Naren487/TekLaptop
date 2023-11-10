@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE
+<HTML>
+       <HEAD>
+       <TITLE>admin </TITLE>
+       </HEAD>
+       <BODY BGCOLOR="cyan">
+       <h1>Admin Page</h1>
+       <ul>
+       <a  href="adminHome">
+       <li>Home</li></a>
+       <a  href="listsServlet">
+       <li>Lists</li></a>
+       <a  href="passwordChange">
+       <li>Change Password</li></a>
+       </ul>
+       <H1>List of Airlines </H1>
+      
+     </BODY>
+</HTML>

@@ -1,0 +1,1 @@
+ccmsetup.exe SMSMP=rp-sccm-primary.allegisgroup.com SMSSLP=rp-sccm-primary.allegisgroup.com SMSSITECODE=AG1
