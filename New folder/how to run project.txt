@@ -1,0 +1,7 @@
+in server folder 
+rum cmd:npx nodemon@latest server.js
+
+in ecommerce folder run two cmds in different powershells
+
+1.npm start
+2.json-server --watch db.json --port 2000
